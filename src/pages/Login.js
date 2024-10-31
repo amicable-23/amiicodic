@@ -18,6 +18,7 @@ function Login() {
         <button type='btn' className='btn w-100 btn-outline-danger login'>Login</button>
         <h5>Click here to sign up</h5>
        <Link  to="/signup"><button type='btn' className='logins btn btn-outline-primary'>Sign up</button></Link>
+       <h6>forget password?</h6>
        </div>
        
       
